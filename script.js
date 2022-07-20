@@ -20,7 +20,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
         } else if ((pregunta == "b")){
             alert("Respuesta incorrecta. Usted no suma puntos.")
         } else {
-            alert("Ingrese una opción válida.")    
+            alert("Ingrese una opción válida entre a o b.")    
             continue            
         } 
         while (pregunta){
@@ -31,7 +31,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
             } else if ((pregunta == "a")){
                 alert("Respuesta incorrecta. Usted no suma puntos.")
             } else {
-                alert("Ingrese una opción válida.")    
+                alert("Ingrese una opción válida entre a o b.")    
                 continue            
             } 
             while (pregunta){
@@ -42,7 +42,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
                 } else if ((pregunta == "b")){
                     alert("Respuesta incorrecta. Usted no suma puntos.")
                 } else {
-                    alert("Ingrese una opción válida.")    
+                    alert("Ingrese una opción válida entre a o b.")    
                     continue            
                 }  
                 while (pregunta){
@@ -53,7 +53,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
                     } else if ((pregunta == "a")){
                         alert("Respuesta incorrecta. Usted no suma puntos.")
                     } else {
-                        alert("Ingrese una opción válida.")    
+                        alert("Ingrese una opción válida entre a o b.")    
                         continue            
                     }  
                     while (pregunta){
@@ -64,7 +64,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
                         } else if ((pregunta == "a")){
                             alert("Respuesta incorrecta. Usted no suma puntos.")
                         } else {
-                            alert("Ingrese una opción válida.")    
+                            alert("Ingrese una opción válida entre a o b.")    
                             continue            
                         }  
                         while (pregunta){
@@ -75,7 +75,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
                             } else if ((pregunta == "b")){
                                 alert("Respuesta incorrecta. Usted no suma puntos.")
                             } else {
-                                alert("Ingrese una opción válida.")    
+                                alert("Ingrese una opción válida entre a o b.")    
                                 continue            
                             }  
                             while (pregunta){
@@ -86,7 +86,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
                                 } else if ((pregunta7 == "b")){
                                     alert("Respuesta incorrecta. Usted no suma puntos.")
                                 } else {
-                                    alert("Ingrese una opción válida.")    
+                                    alert("Ingrese una opción válida entre a o b.")    
                                     continue            
                                 }  
                                 while (pregunta){
@@ -97,7 +97,7 @@ telefono = prompt("Ingrese un teléfono de contacto.")
                                     } else if ((pregunta == "a")){
                                         alert("Respuesta incorrecta. Usted no suma puntos.")
                                     } else {
-                                        alert("Ingrese una opción válida.")    
+                                        alert("Ingrese una opción válida entre a o b.")    
                                         continue            
                                     }  
                                     alert('Cuestionario finalizado con éxito. Usted ha sumado '+puntaje+' puntos.')                                      
